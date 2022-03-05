@@ -1,4 +1,4 @@
-### Full stack dev. Interested in computers, science, and computer science. 🛰
+### Full stack dev. Interested in computers, science, and computer science.  🛰
 <!--
 **j4rola/j4rola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
